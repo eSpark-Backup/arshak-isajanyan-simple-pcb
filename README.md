@@ -14,3 +14,7 @@ basically connect all 3 terminals of all 8 SCP60 parts in parallel
 I don't have a device
 
 Datasheet: [SCP60A (2) (1).pdf](https://github.com/user-attachments/files/22021447/SCP60A.2.1.pdf)
+
+<img width="1153" height="881" alt="image" src="https://github.com/user-attachments/assets/2ac58287-6774-4ff3-a464-281a2ac5cf92" />
+
+<img width="2245" height="1110" alt="image" src="https://github.com/user-attachments/assets/f142f0ae-d7ec-4626-ab07-8f8ac31bf72b" />
