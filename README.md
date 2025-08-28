@@ -13,6 +13,8 @@ the traces that connect the control terminals of SCP parts must be as wide as po
 basically connect all 3 terminals of all 8 SCP60 parts in parallel
 I don't have a device
 
+Maximum continuous current for each part will be approximately 50A. Total 400A
+
 Datasheet: [SCP60A (2) (1).pdf](https://github.com/user-attachments/files/22021447/SCP60A.2.1.pdf)
 
 <img width="1153" height="881" alt="image" src="https://github.com/user-attachments/assets/2ac58287-6774-4ff3-a464-281a2ac5cf92" />
